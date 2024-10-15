@@ -23,9 +23,12 @@
         }
     },
     "require": {
-        "php": ">=7.4"
+        "php": ">=7.4",
+        "imedge/web-data": "@dev",
+        "imedge/web-select2": "@dev"
     },
     "require-dev": {
+        "gipfl/icingaweb2": "^0.10.0",
         "phpstan/phpstan": "^1.10",
         "phpunit/phpunit": "^10.3 || ^9.5",
         "squizlabs/php_codesniffer": "^3.7",
