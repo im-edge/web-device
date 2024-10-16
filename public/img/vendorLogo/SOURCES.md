@@ -45,3 +45,6 @@ fortinet.svg: https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.
 
 20240928:
 fs-com.svg: https://img-en.fs.com/includes/templates/fiberstore/images/fs-new/common/logo_footer.svg
+
+20241016:
+nortel.svg: https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Nortel_Networks.svg
