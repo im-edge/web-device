@@ -71,6 +71,7 @@ class DeviceVendor
         '1.3.6.1.4.1.30065' => 'arista.svg',
         // '1.3.6.1.4.1.31192' => '', //  -> hella aglaia -> Automatic People Counting Device
         '1.3.6.1.4.1.50536' => 'truenas.svg', // -> FREENAS-MIB
+        '1.3.6.1.4.1.55062' => 'qnap.svg',
         '1.3.6.1.4.1.52642' => 'fs-com.svg', // -> FS-SMI, FS-AG-MBM-MIB, FS-MEMORY-MIB, FS-PROCESS-MIB
     ];
 
