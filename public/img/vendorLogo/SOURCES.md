@@ -49,3 +49,4 @@ fs-com.svg: https://img-en.fs.com/includes/templates/fiberstore/images/fs-new/co
 20241016:
 nortel.svg: https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Nortel_Networks.svg
 rittal.svg: https://upload.wikimedia.org/wikipedia/commons/4/4c/Rittal-Logo_2010.svg
+ruckus.svg: https://www.ruckusnetworks.com/globalassets/digizuite/954670-ruckus-logo-black-orange.svg

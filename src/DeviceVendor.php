@@ -67,6 +67,7 @@ class DeviceVendor
         '1.3.6.1.4.1.16177' => 'westermo.svg',
         '1.3.6.1.4.1.16744' => 'blankom.svg',
         '1.3.6.1.4.1.18334' => 'konica-minolta.svg',
+        '1.3.6.1.4.1.25053' => 'ruckus.svg',
         '1.3.6.1.4.1.30065' => 'arista.svg',
         // '1.3.6.1.4.1.31192' => '', //  -> hella aglaia -> Automatic People Counting Device
         '1.3.6.1.4.1.50536' => 'truenas.svg', // -> FREENAS-MIB
