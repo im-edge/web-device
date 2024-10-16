@@ -47,6 +47,7 @@ class DeviceVendor
         '1.3.6.1.4.1.1991'  => 'extreme-networks.png', // Foundry -> Broadcom -> Extreme Networks
         '1.3.6.1.4.1.2011'  => 'huawei.svg',
         '1.3.6.1.4.1.2435'  => 'brother.svg',
+        '1.3.6.1.4.1.2606'  => 'rittal.svg',
         '1.3.6.1.4.1.2636'  => 'juniper.svg',
         '1.3.6.1.4.1.4329.15' => 'extreme-networks.png', // Siemens Hipath Wireless
         '1.3.6.1.4.1.4413'  => 'broadcom.svg',
