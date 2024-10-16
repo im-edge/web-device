@@ -6,7 +6,7 @@ use gipfl\Translation\TranslationHelper;
 use IMEdge\Web\Data\Model\Entity;
 use IMEdge\Web\Data\Model\EntitySensor;
 use IMEdge\Web\Grapher\GraphRendering\ImedgeGraphPreview;
-use Icinga\Module\Inventory\GraphRendering\RrdImageLoader; // TODO: move!
+use Icinga\Module\Imedge\Graphing\RrdImageLoader; // TODO: move!
 use ipl\Html\BaseHtmlElement;
 use ipl\Html\Html;
 use ipl\Html\HtmlDocument;
