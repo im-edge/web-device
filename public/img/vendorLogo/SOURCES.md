@@ -52,3 +52,4 @@ rittal.svg: https://upload.wikimedia.org/wikipedia/commons/4/4c/Rittal-Logo_2010
 ruckus.svg: https://www.ruckusnetworks.com/globalassets/digizuite/954670-ruckus-logo-black-orange.svg
 qnap.svg: https://upload.wikimedia.org/wikipedia/commons/f/f0/Qnap_Logo_2004.svg
 cambium.svg: https://upload.wikimedia.org/wikipedia/commons/0/01/Cambium_Networks_logo.svg
+avaya.svg: https://upload.wikimedia.org/wikipedia/commons/8/8b/Avaya_Logo.svg

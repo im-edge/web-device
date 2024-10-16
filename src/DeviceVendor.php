@@ -53,6 +53,7 @@ class DeviceVendor
         '1.3.6.1.4.1.4413'  => 'broadcom.svg',
         '1.3.6.1.4.1.5597'  => 'meinberg.png',
         '1.3.6.1.4.1.5624'  => 'extreme-networks.png', // Enterasys
+        '1.3.6.1.4.1.6889'  => 'avaya.svg',
         '1.3.6.1.4.1.7745'  => 'aethra.png',
         // '1.3.6.1.4.1.8072.3.2.1' => 'hpux9.svg',
         '1.3.6.1.4.1.8072.3.2.2'  => 'sunos4.svg',
