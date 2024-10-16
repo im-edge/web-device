@@ -242,11 +242,11 @@ class EntityTreeRenderer extends BaseHtmlElement
         $tag = Html::tag('div', ['class' => ['entity', $entity->get('class') . '-entity']]);
         if ($entity->get('class') === 'fan') {
             $tag->add(Html::tag('img', [
-                'src' => 'img/inventory/components/fan.svg',
+                'src' => 'img/imedge/vendor/deviceComponent/fan.svg',
                 'height' => 32,
-                'width' => 32,
-                'style' => 'float: left',
-                'alt' => '',
+                'width'  => 32,
+                'style'  => 'float: left',
+                'alt'    => '',
             ]));
         }
         if ($entity->get('field_replaceable_unit') === 'y') {
