@@ -69,6 +69,7 @@ class DeviceVendor
         '1.3.6.1.4.1.16744' => 'blankom.svg',
         '1.3.6.1.4.1.17713' => 'cambium.svg',
         '1.3.6.1.4.1.18334' => 'konica-minolta.svg',
+        '1.3.6.1.4.1.20433' => 'pbt.png', // hard to find, Phoenix Broadband Technologies has been acquired
         '1.3.6.1.4.1.24681' => 'qnap.svg', // Not sure. This is the NAS-MIB, found on a TS-469 Pro.
                                            // TODO: Check, whether QNAP is the only one providing this as a systemOid
         '1.3.6.1.4.1.25053' => 'ruckus.svg',

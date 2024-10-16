@@ -54,3 +54,4 @@ qnap.svg: https://upload.wikimedia.org/wikipedia/commons/f/f0/Qnap_Logo_2004.svg
 cambium.svg: https://upload.wikimedia.org/wikipedia/commons/0/01/Cambium_Networks_logo.svg
 avaya.svg: https://upload.wikimedia.org/wikipedia/commons/8/8b/Avaya_Logo.svg
 mellanox.svg: https://upload.wikimedia.org/wikipedia/en/a/ab/Mellanox_Technologies_logo.svg
+pbt.png: https://images.crunchbase.com/image/upload/v1435096980/kvd1aillzyftcyhhzdmg.png
