@@ -51,6 +51,7 @@ class DeviceVendor
         '1.3.6.1.4.1.2636'  => 'juniper.svg',
         '1.3.6.1.4.1.4329.15' => 'extreme-networks.png', // Siemens Hipath Wireless
         '1.3.6.1.4.1.4413'  => 'broadcom.svg',
+        '1.3.6.1.4.1.4526'  => 'netgear.svg',
         '1.3.6.1.4.1.5597'  => 'meinberg.png',
         '1.3.6.1.4.1.5624'  => 'extreme-networks.png', // Enterasys
         '1.3.6.1.4.1.6889'  => 'avaya.svg',
