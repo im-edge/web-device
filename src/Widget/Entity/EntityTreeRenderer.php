@@ -88,7 +88,8 @@ class EntityTreeRenderer extends BaseHtmlElement
                     //$img->graph->layout->setOnlyGraph();
                     $img->graph->layout->disableXAxis();
                     $imgContainer->add(Html::tag('strong', [
-                        'style' => 'position: absolute; display: inline-block; z-index: 10; top: 10%; left: 30%; margin: auto'
+                        'style' => 'position: absolute; display: inline-block; z-index: 10; top: 10%;'
+                                 . ' left: 30%; margin: auto'
                     ], $ifConfig->get('if_name')));
 
                     $tag->add($imgContainer);
@@ -119,7 +120,6 @@ class EntityTreeRenderer extends BaseHtmlElement
                 foreach ($sensorEntityNames as &$name) {
                     if (strlen($name) > strlen($commonPrefix)) {
                         $name = substr($name, strlen($commonPrefix));
-                        $name = ltrim($name, ': ');
                     }
                 }
             }
@@ -132,14 +132,14 @@ class EntityTreeRenderer extends BaseHtmlElement
                         Html::tag(
                             'span',
                             // Strip a common prefix across all sensors, if any
-                            self::stripOptionalPrefix(
+                            ltrim(self::stripOptionalPrefix(
                             // Sensor names are often prefixed with their outer container name.
                                 self::stripOptionalPrefix(
                                     self::getNameAndOrDescription($sensorEntity),
                                     $entity->get('name')
                                 ),
                                 $commonPrefix
-                            )
+                            ), ': ')
                         ),
                         ')',
                         Html::tag('br'),
