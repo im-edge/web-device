@@ -119,6 +119,7 @@ class EntityTreeRenderer extends BaseHtmlElement
                 foreach ($sensorEntityNames as &$name) {
                     if (strlen($name) > strlen($commonPrefix)) {
                         $name = substr($name, strlen($commonPrefix));
+                        $name = ltrim($name, ': ');
                     }
                 }
             }
