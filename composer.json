@@ -24,14 +24,13 @@
     },
     "require": {
         "php": ">=7.4",
-        "imedge/web-data": "@dev",
-        "imedge/web-grapher": "@dev",
-        "imedge/web-select2": "@dev"
+        "imedge/web-data": "^0.7",
+        "imedge/web-grapher": "^0.6.2"
     },
     "require-dev": {
         "gipfl/icingaweb2": "^0.10",
         "gipfl/zfdbstore": "^0.3",
-        "imedge/svg": "@dev",
+        "imedge/svg": "^0.2",
         "phpstan/phpstan": "^1.10",
         "phpunit/phpunit": "^10.3 || ^9.5",
         "ramsey/uuid": ">=4.2",
