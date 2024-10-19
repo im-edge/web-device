@@ -127,7 +127,7 @@ class DeviceVendor
         if (str_contains($row->system_name ?? '', 'Phoenix Broadband Technologies')) {
             return self::createLogoImg('phoenix-broadband-technologies.svg');
         }
-        // e.g. 	1.3.6.1.4.1.25506.11.1.81 -> HP, H3C?
+        // e.g. 1.3.6.1.4.1.25506.11.1.81 -> HP, H3C?
         if (str_contains($row->system_description ?? '', 'Hewlett-Packard')) {
             return self::createLogoImg('hp.svg');
         }
