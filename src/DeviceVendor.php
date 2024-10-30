@@ -54,6 +54,7 @@ class DeviceVendor
         '1.3.6.1.4.1.4526'  => 'netgear.svg',
         '1.3.6.1.4.1.5597'  => 'meinberg.png',
         '1.3.6.1.4.1.5624'  => 'extreme-networks.png', // Enterasys
+        '1.3.6.1.4.1.6486'  => 'alcatel-lucent.svg',
         '1.3.6.1.4.1.6889'  => 'avaya.svg',
         '1.3.6.1.4.1.7745'  => 'aethra.png',
         // '1.3.6.1.4.1.8072.3.2.1' => 'hpux9.svg',
@@ -65,6 +66,7 @@ class DeviceVendor
         '1.3.6.1.4.1.8741'  => 'sonicwall.svg',
         '1.3.6.1.4.1.10704' => 'barracuda.svg', // PHION-MIB
         '1.3.6.1.4.1.12356' => 'fortinet.svg',
+        '1.3.6.1.4.1.14823' => 'aruba.svg',
         '1.3.6.1.4.1.14988' => 'mikrotik.svg',
         '1.3.6.1.4.1.16177' => 'westermo.svg',
         '1.3.6.1.4.1.16744' => 'blankom.svg',

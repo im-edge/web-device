@@ -56,3 +56,9 @@ avaya.svg: https://upload.wikimedia.org/wikipedia/commons/8/8b/Avaya_Logo.svg
 mellanox.svg: https://upload.wikimedia.org/wikipedia/en/a/ab/Mellanox_Technologies_logo.svg
 pbt.png: https://images.crunchbase.com/image/upload/v1435096980/kvd1aillzyftcyhhzdmg.png
 netgear.svg: https://upload.wikimedia.org/wikipedia/commons/2/29/Netgear_logo_2014.svg
+
+20241021:
+aruba.svg: https://upload.wikimedia.org/wikipedia/commons/e/e1/Aruba_Networks_logo.svg
+
+20241030:
+alcatel-lucent.svg: https://upload.wikimedia.org/wikipedia/commons/a/a9/Alcatel-Lucent_logo.svg
