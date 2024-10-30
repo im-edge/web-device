@@ -55,6 +55,7 @@ class DeviceVendor
         '1.3.6.1.4.1.5597'  => 'meinberg.png',
         '1.3.6.1.4.1.5624'  => 'extreme-networks.png', // Enterasys
         '1.3.6.1.4.1.6486'  => 'alcatel-lucent.svg',
+        '1.3.6.1.4.1.6527'  => 'alcatel-lucent.svg',// Nokia (TiMetra)
         '1.3.6.1.4.1.6889'  => 'avaya.svg',
         '1.3.6.1.4.1.7745'  => 'aethra.png',
         // '1.3.6.1.4.1.8072.3.2.1' => 'hpux9.svg',
