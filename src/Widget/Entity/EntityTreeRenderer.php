@@ -184,8 +184,11 @@ class EntityTreeRenderer extends BaseHtmlElement
             return null;
         }
         $strings = array_values($strings); // -> keys
-        if (count($strings) === 2) {
+        if (count($strings) === 1) {
             return $strings[0];
+        }
+        if (in_array(null, $strings)) {
+            return null;
         }
 
         sort($strings);
